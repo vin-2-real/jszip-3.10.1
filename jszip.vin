@@ -1,0 +1,16 @@
+/*
+ * Skypack CDN - jszip@3.10.1
+ *
+ * Learn more:
+ *   📙 Package Documentation: https://www.skypack.dev/view/jszip
+ *   📘 Skypack Documentation: https://www.skypack.dev/docs
+ *
+ * Pinned URL: (Optimized for Production)
+ *   ▶️ Normal: https://cdn.skypack.dev/pin/jszip@v3.10.1-yiGTtbFwF7YJqwk1P5LM/mode=imports/optimized/jszip.js
+ *   ⏩ Minified: https://cdn.skypack.dev/pin/jszip@v3.10.1-yiGTtbFwF7YJqwk1P5LM/mode=imports,min/optimized/jszip.js
+ *
+ */
+
+// Browser-Optimized Imports (Don't directly import the URLs below in your application!)
+export * from '/-/jszip@v3.10.1-yiGTtbFwF7YJqwk1P5LM/dist=es2019,mode=imports/optimized/jszip.js';
+export {default} from '/-/jszip@v3.10.1-yiGTtbFwF7YJqwk1P5LM/dist=es2019,mode=imports/optimized/jszip.js';
